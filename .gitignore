@@ -1,0 +1,16 @@
+# BUILD ARTIFACTS
+*.class
+/out/
+/bin/
+/target/
+
+# IDE STUFF
+.classpath
+.project
+.settings/
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
